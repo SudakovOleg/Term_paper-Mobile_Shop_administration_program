@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="MobilShopNet.MobilShop">
+    <Position X="7.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgQAQCAAAAgAIAAAQAwAAAEAAAAAAAAAKAAQAAA=</HashCode>
+      <FileName>Классы\MobilShop.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MobilShopNet.MobilShopTownOffice">
+    <Position X="9.75" Y="2.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAgiAAQAAAAEJAAAQAAAIAAAAAAAIAAAAAAAA=</HashCode>
+      <FileName>Классы\MobilShopsTownOffice.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MobilShopNet.ProductsTypeCol">
+    <Position X="2" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAABABBAACACAAgQAABEAAAAAIAAAAABAAAA=</HashCode>
+      <FileName>Классы\ProductsTypeCol.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="MobilShopNet.Product">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABABQAAAAAAAAAAEAAAAAAAjA=</HashCode>
+      <FileName>Классы\Product.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MobilShopNet.mainControl">
+    <Position X="7.25" Y="7" Width="1.5" />
+    <NestedTypes>
+      <Delegate Name="MobilShopNet.mainControl.workDone" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Классы\mainConr.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAIBAAACAACAAAAAAAQAAAAAEQIAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>Классы\mainConr.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MobilShopNet.ProductType">
+    <Position X="3.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>Классы\ProductType.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MobilShopNet.BdControler">
+    <Position X="13.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAICAAAAAAAABAAAGCEAAAAAAAAAAIAAAAAQ=</HashCode>
+      <FileName>Классы\BdConroler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MobilShopNet.shopControler">
+    <Position X="9.5" Y="7" Width="1.5" />
+    <NestedTypes>
+      <Delegate Name="MobilShopNet.shopControler.workDone" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Классы\shopControler.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAgAAQAAAAACAAAAAAAgACAAAAEAAA=</HashCode>
+      <FileName>Классы\shopControler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

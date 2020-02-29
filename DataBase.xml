@@ -1,0 +1,338 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<hotel>
+  <street>
+    <house>
+      <number>101</number>
+      <class>Стандарт</class>
+      <capacity>2</capacity>
+      <price>1300</price>
+      <isempty>True</isempty>
+      <guests />
+    </house>
+    <house>
+      <number>102</number>
+      <class>Стандарт</class>
+      <capacity>2</capacity>
+      <price>1300</price>
+      <isempty>True</isempty>
+      <guests />
+    </house>
+    <house>
+      <number>103</number>
+      <class>Стандарт</class>
+      <capacity>2</capacity>
+      <price>1300</price>
+      <isempty>True</isempty>
+      <guests />
+    </house>
+    <house>
+      <number>104</number>
+      <class>Стандарт</class>
+      <capacity>2</capacity>
+      <price>1300</price>
+      <isempty>True</isempty>
+      <guests />
+    </house>
+    <house>
+      <number>105</number>
+      <class>Стандарт</class>
+      <capacity>2</capacity>
+      <price>1300</price>
+      <isempty>True</isempty>
+      <guests />
+    </house>
+    <house>
+      <number>106</number>
+      <class>Стандарт</class>
+      <capacity>2</capacity>
+      <price>1300</price>
+      <isempty>True</isempty>
+      <guests />
+    </house>
+    <house>
+      <number>107</number>
+      <class>Стандарт</class>
+      <capacity>2</capacity>
+      <price>1300</price>
+      <isempty>True</isempty>
+      <guests />
+    </house>
+    <house>
+      <number>108</number>
+      <class>Стандарт</class>
+      <capacity>2</capacity>
+      <price>1300</price>
+      <isempty>True</isempty>
+      <guests />
+    </house>
+    <house>
+      <number>109</number>
+      <class>Стандарт</class>
+      <capacity>2</capacity>
+      <price>1300</price>
+      <isempty>True</isempty>
+      <guests />
+    </house>
+  </street>
+  <street>
+    <house>
+      <number>201</number>
+      <class>Полулюкс</class>
+      <capacity>2</capacity>
+      <price>2500</price>
+      <isempty>True</isempty>
+      <guests />
+    </house>
+    <house>
+      <number>202</number>
+      <class>Полулюкс</class>
+      <capacity>2</capacity>
+      <price>2500</price>
+      <isempty>True</isempty>
+      <guests />
+    </house>
+    <house>
+      <number>203</number>
+      <class>Полулюкс</class>
+      <capacity>2</capacity>
+      <price>2500</price>
+      <isempty>False</isempty>
+      <guests>
+        <guest>
+          <name>Мария</name>
+          <surname>Иванова</surname>
+          <pasport>2255321456</pasport>
+          <enter>16.12.2017</enter>
+          <leave>17.12.2017</leave>
+        </guest>
+        <guest>
+          <name>Саша</name>
+          <surname>Иванов</surname>
+          <pasport>2233369852</pasport>
+          <enter>16.12.2017</enter>
+          <leave>17.12.2017</leave>
+        </guest>
+      </guests>
+    </house>
+    <house>
+      <number>204</number>
+      <class>Полулюкс</class>
+      <capacity>2</capacity>
+      <price>2500</price>
+      <isempty>False</isempty>
+      <guests>
+        <guest>
+          <name>пиваи</name>
+          <surname>авиваи</surname>
+          <pasport>ипваипв</pasport>
+          <enter>15.12.2017</enter>
+          <leave>16.12.2017</leave>
+        </guest>
+      </guests>
+    </house>
+    <house>
+      <number>205</number>
+      <class>Полулюкс</class>
+      <capacity>2</capacity>
+      <price>2500</price>
+      <isempty>True</isempty>
+      <guests />
+    </house>
+    <house>
+      <number>206</number>
+      <class>Люкс</class>
+      <capacity>2</capacity>
+      <price>3000</price>
+      <isempty>True</isempty>
+      <guests />
+    </house>
+    <house>
+      <number>207</number>
+      <class>Люкс</class>
+      <capacity>2</capacity>
+      <price>3000</price>
+      <isempty>True</isempty>
+      <guests />
+    </house>
+    <house>
+      <number>208</number>
+      <class>Люкс</class>
+      <capacity>2</capacity>
+      <price>3000</price>
+      <isempty>True</isempty>
+      <guests />
+    </house>
+    <house>
+      <number>209</number>
+      <class>Люкс</class>
+      <capacity>2</capacity>
+      <price>3000</price>
+      <isempty>True</isempty>
+      <guests />
+    </house>
+  </street>
+  <street>
+    <house>
+      <number>301</number>
+      <class>Стандарт</class>
+      <capacity>1</capacity>
+      <price>1300</price>
+      <isempty>True</isempty>
+      <guests />
+    </house>
+    <house>
+      <number>302</number>
+      <class>Стандарт</class>
+      <capacity>1</capacity>
+      <price>1300</price>
+      <isempty>True</isempty>
+      <guests />
+    </house>
+    <house>
+      <number>303</number>
+      <class>Стандарт</class>
+      <capacity>1</capacity>
+      <price>1300</price>
+      <isempty>True</isempty>
+      <guests />
+    </house>
+    <house>
+      <number>304</number>
+      <class>Стандарт</class>
+      <capacity>1</capacity>
+      <price>1300</price>
+      <isempty>True</isempty>
+      <guests />
+    </house>
+    <house>
+      <number>305</number>
+      <class>Стандарт</class>
+      <capacity>1</capacity>
+      <price>1300</price>
+      <isempty>True</isempty>
+      <guests />
+    </house>
+    <house>
+      <number>306</number>
+      <class>Стандарт</class>
+      <capacity>1</capacity>
+      <price>1300</price>
+      <isempty>True</isempty>
+      <guests />
+    </house>
+    <house>
+      <number>307</number>
+      <class>Стандарт</class>
+      <capacity>1</capacity>
+      <price>1300</price>
+      <isempty>True</isempty>
+      <guests />
+    </house>
+    <house>
+      <number>308</number>
+      <class>Стандарт</class>
+      <capacity>1</capacity>
+      <price>1300</price>
+      <isempty>False</isempty>
+      <guests>
+        <guest>
+          <name>Иван</name>
+          <surname>Иванов</surname>
+          <pasport>632558889</pasport>
+          <enter>12.12.2017</enter>
+          <leave>13.12.2017</leave>
+        </guest>
+      </guests>
+    </house>
+    <house>
+      <number>309</number>
+      <class>Стандарт</class>
+      <capacity>1</capacity>
+      <price>1300</price>
+      <isempty>False</isempty>
+      <guests>
+        <guest>
+          <name>Sasha</name>
+          <surname>Nikishin</surname>
+          <pasport>96854522</pasport>
+          <enter>15.12.2017</enter>
+          <leave>16.12.2017</leave>
+        </guest>
+      </guests>
+    </house>
+  </street>
+  <street>
+    <house>
+      <number>401</number>
+      <class>Стандарт</class>
+      <capacity>2</capacity>
+      <price>1300</price>
+      <isempty>True</isempty>
+      <guests />
+    </house>
+    <house>
+      <number>402</number>
+      <class>Стандарт</class>
+      <capacity>2</capacity>
+      <price>1300</price>
+      <isempty>True</isempty>
+      <guests />
+    </house>
+    <house>
+      <number>403</number>
+      <class>Стандарт</class>
+      <capacity>2</capacity>
+      <price>1300</price>
+      <isempty>True</isempty>
+      <guests />
+    </house>
+    <house>
+      <number>404</number>
+      <class>Стандарт</class>
+      <capacity>2</capacity>
+      <price>1300</price>
+      <isempty>True</isempty>
+      <guests />
+    </house>
+    <house>
+      <number>405</number>
+      <class>Стандарт</class>
+      <capacity>2</capacity>
+      <price>1300</price>
+      <isempty>True</isempty>
+      <guests />
+    </house>
+    <house>
+      <number>406</number>
+      <class>Стандарт</class>
+      <capacity>2</capacity>
+      <price>1300</price>
+      <isempty>True</isempty>
+      <guests />
+    </house>
+    <house>
+      <number>407</number>
+      <class>Стандарт</class>
+      <capacity>2</capacity>
+      <price>1300</price>
+      <isempty>True</isempty>
+      <guests />
+    </house>
+    <house>
+      <number>408</number>
+      <class>Стандарт</class>
+      <capacity>2</capacity>
+      <price>1300</price>
+      <isempty>True</isempty>
+      <guests />
+    </house>
+    <house>
+      <number>409</number>
+      <class>Стандарт</class>
+      <capacity>2</capacity>
+      <price>1300</price>
+      <isempty>True</isempty>
+      <guests />
+    </house>
+  </street>
+</hotel>
